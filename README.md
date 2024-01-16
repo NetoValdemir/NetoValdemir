@@ -4,7 +4,7 @@ I am a specialist in digital games and aspiring indie, in game development.
 Currently, I'm starting a project called Kimera Studio, which consists of creating a studio for game development.
 My skills for games industry:
 
-~ Technical skills ~
+~ Technical Skills ~
 > Language (Basic English);
 > Basic Programming (C++ and C#);
 > 3D modeling (Blender);
@@ -19,7 +19,7 @@ My skills for games industry:
 > Personal Communication;
 > Conflict Resolution;
 
-~ My social Media and Portfolio ~
+~ My Social Media and Portfolio ~
 
 Instagram: 
 > Personal Profile: https://www.instagram.com/valdemir_nt/
