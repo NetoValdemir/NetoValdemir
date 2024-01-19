@@ -17,7 +17,7 @@
 
 ![Valdemir Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoValdemir&show_icons=true&theme=dracula)
 
-### Tecnologias utilizadas no dia a dia
+### Technologies used in my work
 > GameDev & Game Art
 
 <img align="center" alt="Unity 3D" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white" />
@@ -38,7 +38,7 @@
 
 <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
-### Linguagens de Programação utilizadas
+### Programming Languages
 
 <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="center" alt="Cpp" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
