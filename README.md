@@ -1,42 +1,46 @@
-Hello people,
-My name is Valdemir Neto and I am passionate about video games.
-I am a specialist in digital games and aspiring indie, in game development.
-Currently, I'm starting a project called Kimera Studio, which consists of creating a studio for game development.
-My skills for games industry:
+<div style="display: inline_block"><br/>
 
-~ Technical Skills ~
-> Language (Basic English);
-> Basic Programming (C++ and C#);
-> 3D modeling (Blender);
-> Texturing (Adobe Substance Painter);
-> Game Engine (Unity 3D);
-> Graphic Design (Adobe Suite);
+### Hi, I'm Valdemir Neto 👋
+> Social Media & Contacts
 
-~ Soft Skills ~
-> Management and Leadership;
-> Proactivity;
-> Flexibility;
-> Personal Communication;
-> Conflict Resolution;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valdemir_nt/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfvHcxX3ewYEoIk7bq1Xf_Q)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)]()
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-~ My Social Media and Portfolio ~
+> Portfolio
 
-Instagram: 
-> Personal Profile: https://www.instagram.com/valdemir_nt/
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)]()
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)]()
+[![Artstation](https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white)]()
 
-> Project Kimera Studio: https://www.instagram.com/kimerastudio3d/
+![Valdemir Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoValdemir&show_icons=true&theme=dracula)
 
-Youtube:
-> Personal Profile: https://www.youtube.com/channel/UCfvHcxX3ewYEoIk7bq1Xf_Q
+### Tecnologias utilizadas no dia a dia
+> GameDev & Game Art
 
-> Project Kimera Studio: https://www.youtube.com/channel/UCOUiJOOwASPmEB_zH006x4w
+<img align="center" alt="Unity 3D" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white" />
+<img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
+<img align="center" alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=white" />
+<img align="center" alt="Adobe Substance Painter" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white" />
+<br><br/>
 
-Behance: https://www.behance.net/valdemirneto
+> Graphic Design
 
-Artstation: https://www.artstation.com/valdemirneto5
+<img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/>
+<img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white"/>
+<img align="center" alt="Adobe Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white"/>
+<img align="center" alt="Adobe Lightroom Classic" src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe-Lightroom-Classic&logoColor=white"/>
+<br><br/>
 
-Linkedin: https://www.linkedin.com/in/valdemir-neto-317b0071/
+> Prototype
 
-Twiter:
+<img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
+### Linguagens de Programação utilizadas
 
+<img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="center" alt="Cpp" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
+
+</div>
