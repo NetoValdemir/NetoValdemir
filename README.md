@@ -46,4 +46,8 @@
 <img align="center" alt="Cpp" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
 <img align="center" alt="Cpp" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
 
+### Artigos Publicados
+> Plataforma DIO.me<br>
+<a href="https://web.dio.me/articles/trilha-fornt-end-indicacao-de-livros-para-iniciantes?back=%2Fhome&page=1&order=oldest">Trilha Front-end: Indicação de livros (para iniciantes)</a>
+
 </div>
