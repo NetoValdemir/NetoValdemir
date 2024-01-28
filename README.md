@@ -48,6 +48,5 @@
 
 ### Artigos Publicados
 > Plataforma DIO.me<br>
-<a href="https://web.dio.me/articles/trilha-fornt-end-indicacao-de-livros-para-iniciantes?back=%2Fhome&page=1&order=oldest">Trilha Front-end: Indicação de livros (para iniciantes)</a>
-
+<a href="https://www.dio.me/articles/trilha-fornt-end-indicacao-de-livros-para-iniciantes?q=736">Trilha Front-end: Indicação de livros (para iniciantes)</a>
 </div>
