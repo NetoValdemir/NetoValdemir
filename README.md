@@ -15,8 +15,6 @@
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/valdemirneto)
 [![Artstation](https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white)](https://www.artstation.com/valdemirneto5)
 
-![Valdemir Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoValdemir&show_icons=true&theme=dracula)
-
 ### Technologies used in my work
 > GameDev & Game Art
 
