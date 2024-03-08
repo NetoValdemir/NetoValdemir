@@ -1,6 +1,6 @@
 <div style="display: inline_block"><br/>
 
-### Hi, I'm Valdemir Neto 👋 (Profile under construction)
+### Hi, I'm Valdemir Neto 👋 (Profile under review)
 > Social Media & Contacts
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valdemir_nt/)
