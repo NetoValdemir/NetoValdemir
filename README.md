@@ -45,5 +45,7 @@
 
 ### Artigos Publicados
 > Plataforma DIO.me<br>
-<a href="https://www.dio.me/articles/trilha-fornt-end-indicacao-de-livros-para-iniciantes?q=736">Trilha Front-end: Indicação de livros (para iniciantes)</a>
+<a href="https://www.dio.me/articles/trilha-fornt-end-indicacao-de-livros-para-iniciantes?q=736">Trilha Front-end: Indicação de livros (para iniciantes)</a><br>
+> Linkedin
+<br><a href="https://www.linkedin.com/pulse/xv-semana-de-jogos-eletr%2525C3%2525B4nicos-educa%2525C3%2525A7%2525C3%2525A3o-e-comunica%2525C3%2525A7%2525C3%2525A3o-valdemir-neto-afr4f/?trackingId=qDzo84YDQQOVy4U65RRg%2FA%3D%3D"> Resenha - XV Seminário de Jogos, Educação e Comunicação - ComunidadesVirtuais</a>
 </div>
