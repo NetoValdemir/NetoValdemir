@@ -29,6 +29,7 @@
 <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/>
 <img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white"/>
 <img align="center" alt="Adobe Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white"/>
+<img align="center" alt="Adobe After Effects" src="https://img.shields.io/badge/-ADOBE%20AFTER%20EFFECTS-blueviolet?&style=for-the-badge"/>
 <img align="center" alt="Adobe Lightroom Classic" src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe-Lightroom-Classic&logoColor=white"/>
 <br><br/>
 
